@@ -2,8 +2,7 @@
 
 ## Overall Architecture 
 
-![Uploading Screenshot 2025-05-04 at 11.02.25 AM.png…]()
-
+![Logs ingestion from SLS to Datadog](assets/sls-architecture.jpg)
 
 
 
